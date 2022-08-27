@@ -1,0 +1,4 @@
+#Wed Oct 13 17:56:22 PKT 2021
+base.0=C\:\\Users\\Smartito\\Desktop\\dicee-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
